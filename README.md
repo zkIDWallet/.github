@@ -2,6 +2,8 @@
 
 Welcome to the official GitHub Organization for **zkID Wallet** — a cutting-edge project that combines **privacy, compliance, and decentralization** in blockchain transactions through **Zero-Knowledge Proofs** and **eIDAS digital signatures**.
 
+> This project was originally developed as a university thesis and hosted at [paolo9921/zkCF_Wallet](https://github.com/paolo9921/zkCF_Wallet).  
+> It now continues its evolution within this organization to foster collaboration, modularization, and broader community adoption.
 ---
 
 ## 🌍 Mission
@@ -88,4 +90,4 @@ Start by checking the [open issues](https://github.com/zkIDWallet/zkID_Wallet/is
 
 ---
 
-© zkID Wallet Organization – Founded by [Paolo Moser](https://github.com/paolo9921)
+<!--© zkID Wallet Organization – Founded by [Paolo Moser](https://github.com/paolo9921)-->
